@@ -1,0 +1,31 @@
+* {
+    background-color: #000;
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+.test {
+    color: rgb(173, 108, 108);
+    text-shadow: 2px 2px #fff;
+    font-size: 25px;
+    position: relative;
+    top: 600px;
+    left: 720px;
+}
+
+h1 {
+    color: #fff;
+    font-size: 56px;
+    position: absolute;
+    left: 45px;
+    top: 505px;
+    text-shadow: 5px 5px rgb(99, 99, 99);
+}
+
+.gif {
+    border-radius: 50px;
+}
+
+.cloud {
+    width: 700px;
+}
